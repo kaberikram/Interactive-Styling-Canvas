@@ -5,8 +5,6 @@
 
 *A playful experience where you drag and drop virtual t-shirts onto a model to instantly change their look.*
 
-![DragnDrop](https://generative-placeholders.glitch.me/image?width=800&height=600")
-
 ![DragnDrop Demo](assets/dragndrop.gif)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=)
