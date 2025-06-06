@@ -235,23 +235,6 @@ a {
   }
 }
 
-/* CONTENT FROM main.css STARTS HERE */
-
-/*
-body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #fff;
-    overflow: hidden; 
-    font-family: "Source Code Pro", monospace;
-}
-*/
-
 .container {
     position: relative;
     width: 100%;
@@ -381,8 +364,6 @@ body, html {
     opacity: 1;
     visibility: visible;
 }
-
-
 
 
 /* --- Responsive Styles --- */
